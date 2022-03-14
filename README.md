@@ -1,4 +1,4 @@
-# covalence-lab4
+# JavaScript Kitchen Sink covalence-lab4
  Covalence lab 4 solution.
 
 ## Tasks Instructions
